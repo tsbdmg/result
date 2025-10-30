@@ -5,6 +5,7 @@
 - [mbpp](#mbpp)
   - [指标分析总表](#指标分析总表-1)
   - [对比基准: `deepseek1.3b-original-data-25-sft`](#对比基准-deepseek13b-original-data-25-sft-1)
+- [总结](#总结)
 
 
 
@@ -144,3 +145,10 @@
 | deepseek1.3b-original-data-dpo-qfs | <font color="#1ABD76">-15155.02</font> | <font color="#1ABD76">1.13x</font> | <font color="#1ABD76">+0.0445</font> |
 
 
+## 总结
+
+`sft-qra`
+
+`sft-qsl`
+
+优于基准和sft
